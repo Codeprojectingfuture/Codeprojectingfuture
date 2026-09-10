@@ -304,8 +304,7 @@ I focus on making infrastructure and operations:
 
 ## 📊 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Codeprojectingfuture?cardType=github&theme=radical&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
+![Codeprojectingfuture's GitHub Stats](https://readme-stats-github.pages.dev/api?username=Codeprojectingfuture&theme=dark)
 
 ### 🏆 GitHub Trophies
 
