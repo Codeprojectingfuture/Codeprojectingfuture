@@ -304,7 +304,7 @@ I focus on making infrastructure and operations:
 
 ## 📊 GitHub Stats
 
-![Codeprojectingfuture's GitHub Stats](https://readme-stats-github.pages.dev/api?username=Codeprojectingfuture&theme=dark)
+![](https://github-readme-stats.shion.dev/api?username=Codeprojectingfuture&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ### 🏆 GitHub Trophies
 
